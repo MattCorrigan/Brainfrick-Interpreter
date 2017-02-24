@@ -26,5 +26,5 @@ Hello World:
 ```
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
-*"But wait, I thought the hello world example was supposed to be simple?"*
+*"But wait, I thought hello world examples were supposed to be simple?"*
 
