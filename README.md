@@ -1,5 +1,5 @@
 # Brainfrick-Interpreter
-A simple interpreter for the Brain**** language.
+A simple interpreter for the Brain**** language, which is Turing complete.
 
 # Overview of the Language
 This language, which I will call Brainfrick from now on, uses symbols to run commands. The program has a set of cells, each of which can hold one byte of data. There is also a data pointer that points to the current data cell. Here is a description of each of the eight symbols:
