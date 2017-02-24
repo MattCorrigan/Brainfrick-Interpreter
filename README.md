@@ -16,7 +16,7 @@ This language, which I will call Brainfrick from now on, uses symbols to run com
 
 **,** is used to read in one byte from stdin.
 
-**[** is used as an opening while loop. The program skips this character if the current byte is not zero, continuing into the while loop. If ot is zero, then the program skips ahead to the *matching* closing bracket.
+**[** is used as an opening while loop. The program skips this character if the current byte is not zero, continuing into the while loop. If it is zero, then the program skips ahead to the *matching* closing bracket.
 
 **]** is used as the closing bracket of the while loop. The program goes back to the *matching* opening bracket if the current byte is not zero. If the current byte is zero, then the program effectively breaks out of the while loop by skipping this symbol.
 
